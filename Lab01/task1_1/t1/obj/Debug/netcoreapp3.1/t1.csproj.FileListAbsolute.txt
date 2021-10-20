@@ -1,0 +1,14 @@
+C:\Users\Vlad\Desktop\асд лаб1\t1\t1\obj\Debug\netcoreapp3.1\t1.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\асд лаб1\t1\t1\obj\Debug\netcoreapp3.1\t1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\асд лаб1\t1\t1\obj\Debug\netcoreapp3.1\t1.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\асд лаб1\t1\t1\obj\Debug\netcoreapp3.1\t1.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\асд лаб1\t1\t1\obj\Debug\netcoreapp3.1\t1.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\асд лаб1\t1\t1\bin\Debug\netcoreapp3.1\t1.exe
+C:\Users\Vlad\Desktop\асд лаб1\t1\t1\bin\Debug\netcoreapp3.1\t1.deps.json
+C:\Users\Vlad\Desktop\асд лаб1\t1\t1\bin\Debug\netcoreapp3.1\t1.runtimeconfig.json
+C:\Users\Vlad\Desktop\асд лаб1\t1\t1\bin\Debug\netcoreapp3.1\t1.runtimeconfig.dev.json
+C:\Users\Vlad\Desktop\асд лаб1\t1\t1\bin\Debug\netcoreapp3.1\t1.dll
+C:\Users\Vlad\Desktop\асд лаб1\t1\t1\bin\Debug\netcoreapp3.1\t1.pdb
+C:\Users\Vlad\Desktop\асд лаб1\t1\t1\obj\Debug\netcoreapp3.1\t1.dll
+C:\Users\Vlad\Desktop\асд лаб1\t1\t1\obj\Debug\netcoreapp3.1\t1.pdb
+C:\Users\Vlad\Desktop\асд лаб1\t1\t1\obj\Debug\netcoreapp3.1\t1.genruntimeconfig.cache
