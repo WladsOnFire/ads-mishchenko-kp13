@@ -1,0 +1,14 @@
+C:\Users\Vlad\Desktop\var3-ads\var3-ads\bin\Debug\netcoreapp3.1\var3-ads.exe
+C:\Users\Vlad\Desktop\var3-ads\var3-ads\bin\Debug\netcoreapp3.1\var3-ads.deps.json
+C:\Users\Vlad\Desktop\var3-ads\var3-ads\bin\Debug\netcoreapp3.1\var3-ads.runtimeconfig.json
+C:\Users\Vlad\Desktop\var3-ads\var3-ads\bin\Debug\netcoreapp3.1\var3-ads.runtimeconfig.dev.json
+C:\Users\Vlad\Desktop\var3-ads\var3-ads\bin\Debug\netcoreapp3.1\var3-ads.dll
+C:\Users\Vlad\Desktop\var3-ads\var3-ads\bin\Debug\netcoreapp3.1\var3-ads.pdb
+C:\Users\Vlad\Desktop\var3-ads\var3-ads\obj\Debug\netcoreapp3.1\var3-ads.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\var3-ads\var3-ads\obj\Debug\netcoreapp3.1\var3-ads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\var3-ads\var3-ads\obj\Debug\netcoreapp3.1\var3-ads.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\var3-ads\var3-ads\obj\Debug\netcoreapp3.1\var3-ads.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\var3-ads\var3-ads\obj\Debug\netcoreapp3.1\var3-ads.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\var3-ads\var3-ads\obj\Debug\netcoreapp3.1\var3-ads.dll
+C:\Users\Vlad\Desktop\var3-ads\var3-ads\obj\Debug\netcoreapp3.1\var3-ads.pdb
+C:\Users\Vlad\Desktop\var3-ads\var3-ads\obj\Debug\netcoreapp3.1\var3-ads.genruntimeconfig.cache
